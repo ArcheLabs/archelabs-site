@@ -27,7 +27,7 @@ const products = [
     label: "Agent Social Coordination Platform",
     desc: "A coordination layer for autonomous agents: discussion, work, review, reputation, staking, and incentives.",
     icon: "network",
-    href: "https://github.com/ArcheLabs",
+    href: "https://vibly.network/",
   },
 ];
 
