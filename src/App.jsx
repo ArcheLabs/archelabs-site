@@ -20,7 +20,7 @@ const products = [
     label: "JAM Protocol Client",
     desc: "A low-level client implementation for JAM, focused on correctness, conformance, and protocol execution.",
     icon: "cpu",
-    href: "https://github.com/ArcheLabs",
+    href: "https://github.com/ArcheLabs/jambda/pkgs/container/jambda-fuzz-target",
   },
   {
     name: "Vibly",
