@@ -33,7 +33,7 @@ const products = [
 
 const links = [
   { name: "GitHub", href: "https://github.com/ArcheLabs", icon: "github" },
-  { name: "X", href: "https://vibly.network/", icon: "twitter" },
+  { name: "X", href: "https://x.com/archelabs_org", icon: "twitter" },
   // { name: "Telegram", href: "https://t.me/ArcheLabs", icon: "send" },
 ];
 
