@@ -166,6 +166,7 @@ export default function App() {
         <nav className="site-nav" aria-label="Primary navigation">
           <a href="#products">Products</a>
           <ExternalLink href="https://github.com/ArcheLabs">GitHub</ExternalLink>
+          <ExternalLink href="https://x.com/archelabs_org">X</ExternalLink>
         </nav>
       </header>
 
